@@ -1,0 +1,5 @@
+com/eduardofbom/spring_api_rest/SpringApiRestApplication.class
+com/eduardofbom/spring_api_rest/configuration/HelloWorldConfiguration.class
+com/eduardofbom/spring_api_rest/domain/User.class
+com/eduardofbom/spring_api_rest/service/HelloWorldService.class
+com/eduardofbom/spring_api_rest/controller/HelloWorldController.class
